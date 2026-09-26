@@ -1,0 +1,1 @@
+"""Reusable components for the restaurant market analysis project."""

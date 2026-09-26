@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+data/processed/*.csv
+data/processed/*.json
+reports/figures/*.png
+reports/*_tests.csv
+reports/*opportunities.csv
+reports/high_votes_low_ratings.csv
